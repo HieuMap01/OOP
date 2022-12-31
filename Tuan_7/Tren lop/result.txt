@@ -1,0 +1,3 @@
+Tong: 23
+So luong: 6
+Gia tri TB: 3.83333
